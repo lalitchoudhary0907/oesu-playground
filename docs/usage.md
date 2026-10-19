@@ -16,7 +16,7 @@ Run every command from the project folder as `python -m textkit <command> [args]
 
 Give it the classes you attended and the total classes so far, seperated by a space. It tells you how many classes in a row you need to attend to reach 75%.
 
-## cgpa
+## cgpa1
 
 Converts a 10-point CGPA to a percentage using the common × 9.5 rule. If the CGPA is below 0 or above 10, an error has occured and the tool stops.
 
